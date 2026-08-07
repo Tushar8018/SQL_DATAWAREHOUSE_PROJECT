@@ -1,4 +1,4 @@
-# 📊 SQL Data Warehouse & Analytics Project
+#  SQL Data Warehouse & Analytics Project
 
 A beginner-friendly **Data Warehouse and Analytics** project built using **SQL Server**. This project demonstrates the complete process of transforming raw data into business-ready insights by implementing the **Medallion Architecture (Bronze, Silver, Gold)**.
 
@@ -6,23 +6,23 @@ The project is designed to showcase practical SQL, ETL, data modeling, and analy
 
 ---
 
-# 🏗️ Project Architecture
+# Project Architecture
 
 The data warehouse follows the **Medallion Architecture**, which organizes data into three layers:
 
-### 🥉 Bronze Layer – Raw Data
+###  Bronze Layer – Raw Data
 
 * Loads raw data from CSV files into SQL Server.
 * Stores source data without modifications.
 * Acts as the foundation for further processing.
 
-### 🥈 Silver Layer – Cleaned Data
+###  Silver Layer – Cleaned Data
 
 * Cleans and validates the raw data.
 * Removes duplicates and handles missing values.
 * Standardizes formats and prepares data for analysis.
 
-### 🥇 Gold Layer – Business Data
+###  Gold Layer – Business Data
 
 * Creates business-ready datasets.
 * Builds **Fact** and **Dimension** tables using a **Star Schema**.
@@ -30,7 +30,7 @@ The data warehouse follows the **Medallion Architecture**, which organizes data 
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 1. Import raw CSV data into SQL Server.
 2. Load data into the Bronze layer.
@@ -41,7 +41,7 @@ The data warehouse follows the **Medallion Architecture**, which organizes data 
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * SQL Server
 * T-SQL
@@ -54,7 +54,7 @@ The data warehouse follows the **Medallion Architecture**, which organizes data 
 
 ---
 
-# 📂 Project Features
+#  Project Features
 
 * Modern Medallion Architecture
 * End-to-End ETL Pipeline
@@ -67,7 +67,7 @@ The data warehouse follows the **Medallion Architecture**, which organizes data 
 
 ---
 
-# 📈 Skills Demonstrated
+# Skills Demonstrated
 
 * SQL Development
 * Data Warehousing
@@ -81,13 +81,13 @@ The data warehouse follows the **Medallion Architecture**, which organizes data 
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The objective of this project is to build a scalable and organized data warehouse that converts raw operational data into meaningful business information. The final data model is optimized for reporting, dashboard creation, and analytical decision-making.
 
 ---
 
-# 📌 Future Enhancements
+#  Future Enhancements
 
 * Develop interactive Power BI dashboards.
 * Automate ETL using SQL Server Agent.
@@ -97,7 +97,7 @@ The objective of this project is to build a scalable and organized data warehous
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Tushar Kanta**
 
